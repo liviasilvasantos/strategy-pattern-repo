@@ -1,4 +1,4 @@
-package br.com.liviasilvasantos;
+package br.com.liviasilvasantos.nostrategy;
 
 import java.math.BigDecimal;
 
