@@ -20,4 +20,8 @@ Em vez de encher o código de ifs e complicar a lógica, o Strategy Pattern orga
     Reduz o uso de condicionais.
     Torna o código mais modular e fácil de testar.
 
-É como escolher a "ferramenta certa" para cada situação, sem bagunçar o resto do programa. 
+É como escolher a "ferramenta certa" para cada situação, sem bagunçar o resto do programa.
+
+## Material de apoio
+
+[ Strategy Pattern in Action - Resolvendo um problema real ](https://www.youtube.com/watch?v=-h14L7LzqYc)
